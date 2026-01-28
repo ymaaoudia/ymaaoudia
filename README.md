@@ -1,3 +1,4 @@
+# Welcome!
 I am Yanis Ait-Aoudia, a student in Web and Application Development. Below are the areas I am mainly skilled in:
 
 ## Frontend Technologies
@@ -26,7 +27,7 @@ I am Yanis Ait-Aoudia, a student in Web and Application Development. Below are t
 
 <br>
 
-# Bienvenue
+# Bienvenue!
 Je suis Yanis Ait Aoudia, étudiant en développement Web et d’applications. Ci-dessous, voici mes principales compétences :
 
 ## Technologies Frontend
